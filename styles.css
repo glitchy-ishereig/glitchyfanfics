@@ -1,2 +1,7 @@
-body { background-color:powderblue
+body { 
+    background-color:rgb(212, 167, 188)
+}
+h1 {
+    text-align: center;
+    font: "Comic Sans MS";
 }
