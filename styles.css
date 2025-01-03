@@ -17,4 +17,6 @@ p{
 a{
     text-align: center;
     color: white;
+    background-color:rgb(255, 234, 244);
+    border-style: dotted;
 }
