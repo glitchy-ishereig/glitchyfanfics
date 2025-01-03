@@ -1,7 +1,9 @@
 body { 
-    background-color:rgb(212, 167, 188)
+    background-color:rgb(212, 167, 188);
+    font: "Comic Sans MS";
 }
 h1 {
     text-align: center;
-    font: "Comic Sans MS";
+    text-decoration: wavy;
+    color: white;
 }
