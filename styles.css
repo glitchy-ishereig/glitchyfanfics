@@ -20,7 +20,7 @@ body{
 #Links{
     display: block;
     padding: 25px;
-    background-color: rgb(255, 236, 246);
+    background-color: rgb(255, 206, 232);
     color: rgb(143, 10, 79);
     text-align: center;
 }
@@ -36,7 +36,7 @@ body{
 #Footer{
     display: block;
     padding: 25px;
-    background-color: rgb(255, 236, 246);
+    background-color: rgb(255, 206, 232);
     color: rgb(143, 10, 79);
     text-align: center;
 }
