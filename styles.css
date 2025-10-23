@@ -11,7 +11,7 @@ body{
 
 #Header{
     display: block;
-    padding: 25px;
+    padding: 15px;
     background-color: rgb(255, 236, 246);
     border: dashed, rgb(143, 10, 79), 3px;
     text-align: center;
@@ -27,7 +27,7 @@ body{
 
 #Body{
     display: block;
-    padding: 25px;
+    padding: 15px;
     background-color: rgb(255, 236, 246);
     border: dashed, rgb(143, 10, 79), 3px;
     text-align: center;
