@@ -23,4 +23,9 @@ body{
     text-align: center;
 }
 
-
+#Body{
+    display: block;
+    background-color: rgb(255, 236, 246);
+    border: dashed, rgb(143, 10, 79), 3px;
+    text-align: center;
+}
