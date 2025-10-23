@@ -9,13 +9,13 @@ body{
     color: rgb(143, 10, 79);
 }
 
-.Header{
+#Header{
     display: block;
     background-color: white;
     border: dotted, black;
     text-align: center;
 }
 
-.Links{
+#Links{
     
 }
