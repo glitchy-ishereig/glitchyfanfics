@@ -1,5 +1,9 @@
 body{ 
-    background-color:rgb(212, 167, 188);
+    background-image: url(https://i.pinimg.com/736x/e7/78/d8/e778d8b0c7230ec98222df891068955b.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: Comic Sans Ms, Comic Sans;
     text-align: center;
 }
