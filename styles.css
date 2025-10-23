@@ -12,13 +12,15 @@ body{
 #Header{
     display: block;
     background-color: rgb(255, 236, 246);
-    border: dotted, rgb(143, 10, 79), 5px;
+    border: dashed, rgb(143, 10, 79), 3px;
     text-align: center;
 }
 
 #Links{
     display: block;
-    background-color: rgb(255, 117, 190);
-    color: rgb(255, 236, 246);
+    background-color: rgb(255, 236, 246);
+    color: rgb(143, 10, 79);
     text-align: center;
 }
+
+
