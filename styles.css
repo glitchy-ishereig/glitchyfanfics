@@ -10,8 +10,10 @@ body{
 }
 
 .Header{
-    text-align: center;
+    display: block;
     background-color: white;
+    border: dotted, black;
+    text-align: center;
 }
 
 .Links{
