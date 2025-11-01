@@ -16,6 +16,7 @@ body{
     padding: 15px;
     background-color: rgb(255, 236, 246);
     border: solid, rgb(250, 184, 218), 3px;
+    border-radius: 50px;
     text-align: center;
 }
 
@@ -39,6 +40,7 @@ body{
     padding: 15px;
     background-color: rgb(255, 236, 246);
     border: solid, rgb(250, 184, 218), 3px;
+    border-radius: 50px;
     text-align: center;
 }
 
