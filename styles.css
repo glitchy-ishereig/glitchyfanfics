@@ -16,7 +16,7 @@ body{
     padding: 15px;
     background-color: rgb(255, 236, 246);
     border: solid, rgb(250, 184, 218), 3px;
-    border-radius: 50px;
+    border-radius: 50px, 50px, 0px, 0px;
     text-align: center;
 }
 
@@ -28,7 +28,7 @@ body{
     background-color: rgb(255, 206, 232);
     background-image: linear-gradient(to bottom, rgb(255, 206, 232),rgb(253, 152, 206));
     border: solid, 3px, rgb(255, 87, 177);
-    border-radius: 50px;
+    border-radius: 0px;
     color: rgb(143, 10, 79);
     text-align: center;
 }
@@ -40,19 +40,19 @@ body{
     padding: 15px;
     background-color: rgb(255, 236, 246);
     border: solid, rgb(250, 184, 218), 3px;
-    border-radius: 50px;
+    border-radius: 0px;
     text-align: center;
 }
 
 #Footer{
     display: block;
     width: 60%;
-    margin: auto, 10;
+    margin: auto;
     padding: 15px;
     background-color: rgb(255, 206, 232);
     background-image: linear-gradient(to bottom, rgb(255, 206, 232),rgb(253, 152, 206));
     border: solid, 3px, rgb(255, 87, 177);
-    border-radius: 50px;
+    border-radius: 0px, 0px, 50px,50px;
     color: rgb(143, 10, 79);
     text-align: center;
 }
