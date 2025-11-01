@@ -12,6 +12,7 @@ body{
 #Header{
     display: block;
     width: 60%;
+    margin: auto;
     padding: 15px;
     background-color: rgb(255, 236, 246);
     border: dashed, rgb(143, 10, 79), 3px;
@@ -21,7 +22,7 @@ body{
 #Links{
     display: block;
     width: 60%;
-    margin: 5px;
+    margin: 5px, auto;
     padding: 10px;
     background-color: rgb(255, 206, 232);
     color: rgb(143, 10, 79);
@@ -31,6 +32,7 @@ body{
 #Body{
     display: block;
     width: 60%;
+    margin: auto;
     padding: 15px;
     background-color: rgb(255, 236, 246);
     border: dashed, rgb(143, 10, 79), 3px;
@@ -40,7 +42,7 @@ body{
 #Footer{
     display: block;
     width: 60%;
-    margin: 5px;
+    margin: 5px, auto;
     padding: 10px;
     background-color: rgb(255, 206, 232);
     color: rgb(143, 10, 79);
