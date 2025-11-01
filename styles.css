@@ -15,7 +15,7 @@ body{
     margin: auto;
     padding: 15px;
     background-color: rgb(255, 236, 246);
-    border: dashed, rgb(143, 10, 79), 3px;
+    border: solid, rgb(250, 184, 218), 3px;
     text-align: center;
 }
 
@@ -38,7 +38,7 @@ body{
     margin: auto;
     padding: 15px;
     background-color: rgb(255, 236, 246);
-    border: dashed, rgb(143, 10, 79), 3px;
+    border: solid, rgb(250, 184, 218), 3px;
     text-align: center;
 }
 
