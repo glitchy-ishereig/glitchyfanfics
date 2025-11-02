@@ -15,7 +15,7 @@ body{
     margin: auto;
     padding: 15px;
     background-color: rgb(255, 236, 246);
-    background-image: linear-gradient(to bottom, rgb(255, 236, 246),rgb(255, 190, 225));
+    background-image: linear-gradient(to bottom, rgb(255, 236, 246),rgb(255, 201, 230));
     border: solid, rgb(253, 154, 205), 3px;
     border-radius: 50px 50px 0px 0px;
     text-align: center;
@@ -41,7 +41,7 @@ body{
     margin: auto;
     padding: 15px;
     background-color: rgb(255, 236, 246);
-    background-image: linear-gradient(to bottom, rgb(255, 236, 246),rgb(255, 190, 225));
+    background-image: linear-gradient(to bottom, rgb(255, 236, 246),rgb(255, 201, 230));
     border: solid, rgb(253, 154, 205), 3px;
     border-radius: 0px;
     text-align: center;
